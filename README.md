@@ -1,2 +1,2 @@
 # CV-ClaudioFitipaldi
-Cv de ClaudioFitipaldi para evaluar en desarollo  en Frontend
+Cv de ClaudioFitipaldi para evaluar en desarrollo  en Frontend
